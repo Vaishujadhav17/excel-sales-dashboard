@@ -33,7 +33,7 @@ Screenshots:
 
 
 ## How to Use
-1. Download `Excel-Sales-Dashboard.xlsm`
+1. Download [Excel Dashboard sales (1).xlsm](https://github.com/user-attachments/files/24967353/Excel.Dashboard.sales.1.xlsm)
 2. Open in Microsoft Excel
 3. Enable macros when prompted
 4. Use checkboxes and filters to explore insights
