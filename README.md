@@ -56,7 +56,17 @@ Data preprocessing was performed before visualization.
 ---
 
 ## 🖼 Dashboard Preview
-[Excel Dashboard sales (1).xlsm](https://github.com/user-attachments/files/24967353/Excel.Dashboard.sales.1.xlsm)
-<img width="1413" height="616" alt="Screenshot 2026-01-18 203330" src="https://github.com/user-attachments/assets/90a33218-bd39-4f6c-94b0-d088883b27cb" />
+Dashboard: [Excel Dashboard sales (1).xlsm](https://github.com/user-attachments/files/24967353/Excel.Dashboard.sales.1.xlsm)
+
+Screenshots:
+Excel Dashboard: <img width="1413" height="616" alt="Screenshot 2026-01-18 203330" src="https://github.com/user-attachments/assets/90a33218-bd39-4f6c-94b0-d088883b27cb" />
+
+Slicer :<img width="1433" height="756" alt="Screenshot 2026-01-18 194548" src="https://github.com/user-attachments/assets/7634a010-c94d-4eae-b9f2-6de2c1e054cb" />
+
+Raw Data: <img width="1312" height="976" alt="Screenshot 2026-01-18 210401" src="https://github.com/user-attachments/assets/28751c9e-df37-45a1-a2ee-b075cdbb8bcc" />
+
+Macro Code :<img width="1912" height="1057" alt="Screenshot 2026-01-18 203146" src="https://github.com/user-attachments/assets/acc84443-bdd5-44d6-9250-70457157e203" />
+
+
 
 
